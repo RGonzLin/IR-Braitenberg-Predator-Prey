@@ -7,5 +7,7 @@ The prey contains a blue light source, while the prey (along with the corners of
 The Braitenberg vehicles were implemented using an ePuck robot. As they are quite slow, I recommend running the simulations at full speed.  
 For the default initial locations of the vehicles, the predator eventually catches up with the prey; however, for other initial positions, the vehicles get caught in stable orbits, in which the predator forever chases the prey without being able to catch it. 
 
+https://user-images.githubusercontent.com/65770155/222192784-380d5ec2-c9db-4ba3-a243-199038408c59.mp4
+
 ## Before starting
 Install Webots, a software for robot simulation. 
